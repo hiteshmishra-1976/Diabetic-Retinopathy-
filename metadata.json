@@ -1,0 +1,6 @@
+{
+  "name": "RetinaScan AI",
+  "description": "High-contrast clinical medical diagnostic system for automated retinal scan analysis, anomaly detection, Grad-CAM heatmaps, and specialist referral workflows.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
