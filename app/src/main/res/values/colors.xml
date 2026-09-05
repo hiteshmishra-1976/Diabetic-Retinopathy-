@@ -1,0 +1,10 @@
+<resources>
+    <color name="primary_blue">#0061A4</color>
+    <color name="primary_container">#D1E4FF</color>
+    <color name="surface_light">#FDFCFF</color>
+    <color name="surface_variant">#F7F8FC</color>
+    <color name="text_dark">#1A1C1E</color>
+    <color name="text_muted">#43474E</color>
+    <color name="error_red">#BA1A1A</color>
+    <color name="success_green">#1B6C30</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetinaScan AI</string>
+    <string name="app_subtitle">Clinical Diabetic Retinopathy CDS</string>
+    <string name="tab_capture">Capture</string>
+    <string name="tab_analysis">Analysis</string>
+    <string name="tab_compare">Compare</string>
+    <string name="tab_report">Report</string>
+</resources>
